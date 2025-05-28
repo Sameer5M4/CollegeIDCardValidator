@@ -1,0 +1,102 @@
+name,college_name,branch,roll_number,phone_number,label
+Shaik Sameer,G. Pulla Reddy Engineering College,CSE,22CSE1045,9876543210,valid
+Ali Khan,Osmania University,ECE,21ECE1056,9123456789,valid
+Ravi Kumar,Andhra Loyola College,MECH,20MECH9999,9988776655,valid
+John@123,Fake Tech School,XYZ,11ZZZ3344,abcdef1234,invalid
+Anjali Sharma,XYZ Engineering Institute,Civil,23CIVL2054,7654321987,valid
+Sameer#,1234 Fake College,IT,CS21A12345,abcde12345,invalid
+Dinesh Reddy,National Institute of Technology,EEE,19EEE6789,9845612378,valid
+X9Z7!!,Wrong Campus,NONE,CSE9999999,notaphone,invalid
+Priya Kiran,Gitam University,AI,21AI4567Z,9977553311,valid
+Test@@User,Sample Institute!,ECE,XYZ1234567,0000000000,invalid
+Rehana Fatima,Jawaharlal Nehru Technological University,CSE,22CSE7766B,9876512345,valid
+Arun T,Rajiv Gandhi Institute of Tech,MECH,20ME3456Z,9123467812,valid
+A12!,Invalid School,ECE,1993ECE9X,1234567abc,invalid
+Syed Faraaz,KL University,CSE,22CSE5432L,9898989898,valid
+Mohammed Musa,Narayana Engineering College,AIML,23AIML5566,8901234567,valid
+FakeName@!,RealFake University,ZZZ,0011223344,invalid999,invalid
+Deepa K,Annamalai University,Biotech,19BIO9987Z,9870001122,valid
+Faruq Uddin,Indian Institute of Technology Delhi,CSE,18CSE4321K,9000000000,valid
+Test User,Invalid Institution,ABC,0000000000,1122334455,invalid
+Saif Ali,Sri Venkateswara University,ECE,20ECE3412,9809809801,valid
+Vishnu B,Fake College of Magic,XYZ,ZZZ8888ZZZ,magiccall,invalid
+Neha Kumari,BITS Pilani,CIVIL,21CIV7788K,7894561230,valid
+Mansi Verma,Amrita University,IT,19IT0003X,9786452310,valid
+Invalid@@,Unreal Tech School,NONE,FAKEID001,notrealph,invalid
+Roshan K,Delhi Technological University,CSE,22CSE2040M,9876541230,valid
+Akash Reddy,SRM Institute of Science and Tech,ECE,20ECE9922B,9123400011,valid
+Suhana A,University of Hyderabad,BT,23BT5567P,8776654321,valid
+TempName123,NoSuch College,ZZZ,123456789A,123,invalid
+Sakina R,Koneru Lakshmaiah Education Foundation,AIDS,23AIDS0033,8887776665,valid
+Ajay K,Indian Institute of Science,AI,21AIX8999,9090909090,valid
+Zainab Q,IGNOU,MECH,18ME9991K,9321875634,valid
+Mahi123#,Fake University,BLAH,ABC9994567,short,invalid
+Divya P,Andhra University,ECE,21ECE8881F,9345678901,valid
+Chandan S,Gitam College of Science,CSE,20CSE9090X,9887766554,valid
+Shazia N,NIIT University,IT,22IT4545Z,9501234567,valid
+Fake_One,Random Academy,NONE,BADROLL9999,90000,invalid
+Fazal K,CMR College of Engineering,EEE,23EEE1122G,9988776611,valid
+Ritika A,Malla Reddy Engineering College,AIML,23AIML8998,7894567890,valid
+Waseem Y,NIT Trichy,CSE,22CS3344X,8912345678,valid
+Rekha J,Invalid@School,ZZZ,LOLZ1234567,abcdefghij,invalid
+Vamshi K,IIIT Hyderabad,CS,20CS7777M,9765432109,valid
+Sita L,FakeCampus Inst.,SCI,0000SCI999,1110009999,invalid
+Sathwik G,MIT Manipal,CSE,23CSE3322D,9998887776,valid
+Afsana B,Anna University,ECE,20ECE7755L,8889990000,valid
+Testing!,NotARealCollege,YYY,Y123456789,2223334444,invalid
+Bhavana C,Shiv Nadar University,CS,21CS2211N,9345678901,valid
+Aliya K,NIT Warangal,CIVIL,19CIV1234V,9012345678,valid
+FakeNumb,Nameless Academy,NONE,LOL123LOL1,callnow123,invalid
+Srinivas J,Amity University,CS,22CS1001B,9638527410,valid
+name,college_name,branch,roll_number,phone_number,label
+Pranav Reddy,Velagapudi Ramakrishna Siddhartha Engineering College,CSE,22CSE0055,9876543210,valid
+Lakshmi Nair,Maharaja Agrasen Institute of Technology,ECE,21ECE1102,9123456789,valid
+Ritesh Das,BMS College of Engineering,MECH,20MECH9941,9988776655,valid
+Laxmi@123,Bad School Name,XYZ,ABC1234567,wrongnumber,invalid
+Sonia Dey,Chandigarh University,Civil,23CIVL1004,7654321987,valid
+Ajay_Pal,Fake University IT,IT,19IT123456,special@num,invalid
+Aisha Khan,National Institute of Technology Warangal,EEE,19EEE9981,9845612378,valid
+Z9Fake,Wrong Academy,XYZ,LOLPASS111,notaphone,invalid
+Ravi Kiran,University of Hyderabad,AIML,23AIML0909,9977553311,valid
+Testing User,Fake Engineering University,ECE,INVALID1234,0000000000,invalid
+Nisha Patil,K L University,CSE,22CSE8902,9876512345,valid
+Arman Zafar,Sharda University,MECH,20ME3304,9123467812,valid
+FakeUser!,Fictional College,ECE,12ECE3456,abcde12345,invalid
+Rahul Singh,Andhra University,CSE,22CSE5432,9898989898,valid
+Tasneem Qureshi,SRM University,AIML,23AIML5566,8901234567,valid
+12345@@,RealFake College,NONE,BADROLL9999,invalid999,invalid
+Kiran R,Indian Institute of Information Technology Pune,Biotech,19BIO9987,9870001122,valid
+Aditya Sharma,Indian Institute of Technology Bombay,CSE,18CSE4321,9000000000,valid
+Test Name,Fake Technical Campus,ABC,0000000000,1122334455,invalid
+Zaid Khan,Osmania University,ECE,20ECE3412,9809809801,valid
+Nandini Sinha,Imaginary Tech School,XYZ,FAKE888888,magiccall,invalid
+Preeti Rao,BITS Hyderabad,CIVIL,21CIV7788,7894561230,valid
+Raj Verma,Amrita Vishwa Vidyapeetham,IT,19IT0003,9786452310,valid
+InvalidName,NoReal Institute,NONE,FAKEID001,notrealph,invalid
+Bhargavi T,Delhi Technological University,CSE,22CSE2040,9876541230,valid
+Shyam A,Chaitanya Bharathi Institute of Technology,ECE,20ECE9922,9123400011,valid
+Alok Sinha,Sri Venkateswara College of Engineering,BT,23BT5567,8776654321,valid
+Name@Fake,NoValue College,NONE,123456789A,123,invalid
+Rashmi Reddy,International Institute of Information Technology,AIDS,23AIDS0033,8887776665,valid
+Vinay Gupta,IIIT Allahabad,AI,21AI8999,9090909090,valid
+Neelima Das,NIT Durgapur,MECH,18ME9991,9321875634,valid
+ErrorUser,Faketown Academy,BLAH,FAKE999456,short,invalid
+Himanshu Patel,Anna University,ECE,21ECE8881,9345678901,valid
+Sushmita Roy,Gitam University,CSE,20CSE9090,9887766554,valid
+Divya Sharma,VIT Vellore,IT,22IT4545,9501234567,valid
+XYZ@@User,NoIdentity College,NONE,LOLZ123456,wrongnum,invalid
+Ravi Teja,CMR Institute of Technology,EEE,23EEE1122,9988776611,valid
+Ishika Singh,St. Joseph's College of Engineering,AIML,23AIML8998,7894567890,valid
+Tarun V,NIT Calicut,CSE,22CS3344,8912345678,valid
+FakeGuy,Invalid State Tech Inst,SCI,123SCI999,1110009999,invalid
+Priya D,MIT Chennai,CSE,23CSE3322,9998887776,valid
+Ahmed S,College of Engineering Pune,ECE,20ECE7755,8889990000,valid
+Mr. Tester,Nowhere School,YYY,Y123456789,2223334444,invalid
+Megha Nair,Shivaji University,CS,21CS2211,9345678901,valid
+Akhil C,NIT Silchar,CIVIL,19CIV1234,9012345678,valid
+FakeNumb,Noname Institute,NONE,LOL123LOL1,callnow123,invalid
+Deepak Rao,Amity University,CS,22CS1001,9638527410,valid
+Pooja Sharma,JNTU Hyderabad,IT,22IT8899,9541237890,valid
+Rahul Meena,MNNIT Allahabad,MECH,20ME1200,9781234567,valid
+Name123,Fake Central Inst,XYZ,00CS0000X,wrongnum,invalid
+Kavya Rani,SVCE,TCE,21TCE1234,9900112233,valid
