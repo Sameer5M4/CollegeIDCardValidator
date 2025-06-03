@@ -5,7 +5,7 @@ import os
 
 # --- Configuration ---
 MODEL_PATH = 'id_card_validator_final.keras'  # Path to your saved .keras model
-IMAGE_TO_TEST_PATH = 'test_samples/11.jpg' # <<< REPLACE with the actual path to an image
+IMAGE_TO_TEST_PATH = 'test_samples/18.jpg' # <<< REPLACE with the actual path to an image
 
 # Model input image dimensions (must match what the model was trained on)
 IMG_WIDTH, IMG_HEIGHT = 224, 224
@@ -14,9 +14,6 @@ IMG_WIDTH, IMG_HEIGHT = 224, 224
 # 1. Define your class labels
 CLASS_LABEL_POSITIVE = "genuine"  # The class name if sigmoid output > threshold
 CLASS_LABEL_NEGATIVE = "fake" # The class name if sigmoid output <= threshold
-#    OR, if 'genuine' was your positive class (index 1 during training):
-# CLASS_LABEL_POSITIVE = "genuine"
-# CLASS_LABEL_NEGATIVE = "fake"
 
 # 2. Decision threshold (use 0.5 or your optimal one)
 DECISION_THRESHOLD = 0.9459 # From your previous results, or use 0.5 as a default
