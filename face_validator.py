@@ -129,7 +129,7 @@ if __name__ == "__main__":
         # in the same directory as your script.
         
         # You should replace 'test_id_card.jpg' with the path to your test image.
-        test_image_path = "test_samples/16.jpg" # <--- REPLACE WITH YOUR IMAGE PATH
+        test_image_path = "test_samples/8.jpg" # <--- REPLACE WITH YOUR IMAGE PATH
 
         # Create a dummy image if test_id_card.jpg doesn't exist for testing purposes
         if not os.path.exists(test_image_path):
