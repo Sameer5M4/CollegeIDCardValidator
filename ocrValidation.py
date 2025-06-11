@@ -287,5 +287,5 @@ if __name__ == "__main__":
         print(f"  Roll Number: {validation_results['extracted_roll_number']} (Found: {validation_results['roll_number_found']})")
         if validation_results["reasons"]:
             print("\n  Reasons/Messages:"); [print(f"    - {reason_msg}") for reason_msg in validation_results["reasons"]]
-        print("\n  OCR TEXTS:") # For debugging OCR
-        for idx, line in enumerate(validation_results.get("ocr_texts", [])): print(f"  {idx}: {line}")
+       # print("\n  OCR TEXTS:") # For debugging OCR
+       # for idx, line in enumerate(validation_results.get("ocr_texts", [])): print(f"  {idx}: {line}")
